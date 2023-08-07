@@ -1,0 +1,1 @@
+export const serverPath = 'https://hexagonal-juvenile-shamrock.glitch.me/'
